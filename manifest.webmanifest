@@ -1,0 +1,9 @@
+{
+  "name": "تال غفور",
+  "short_name": "تال غفور",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#10080b",
+  "theme_color": "#a30f20",
+  "icons": [{"src":"icon.jpg","sizes":"128x128","type":"image/jpeg","purpose":"any maskable"}]
+}
